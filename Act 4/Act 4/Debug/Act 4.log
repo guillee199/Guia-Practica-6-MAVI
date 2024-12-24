@@ -1,0 +1,6 @@
+﻿  Act 4.cpp
+C:\Users\guill\source\repos\Act 4\Act 4\Act 4.cpp(43,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\guill\source\repos\Act 4\Act 4\Act 4.cpp(43,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\guill\source\repos\Act 4\Act 4\Act 4.cpp(54,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\guill\source\repos\Act 4\Act 4\Act 4.cpp(54,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Act 4.vcxproj -> C:\Users\guill\source\repos\Act 4\Debug\Act 4.exe
